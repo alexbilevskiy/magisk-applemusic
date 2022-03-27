@@ -1,0 +1,7 @@
+id=magisk-applemusic
+name=Apple Music Mod
+version=v1.1
+versionCode=1
+author=alexbilevskiy
+description=Mod apple music integers
+minMagisk=17000
